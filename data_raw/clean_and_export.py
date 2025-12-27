@@ -43,7 +43,7 @@ churn_clean.to_csv("data_cleaned/dim_churn_events_clean.csv", index=False)
 print(f"\n✅ Saved dim_churn_events_clean.csv ({churn_clean.shape[0]} rows, {churn_clean.shape[1]} cols)\n")
 
 
-# ===== 2. CLEAN ravenstack_feature_usage.csv =====
+# Clean
 print("="*60)
 print("CLEANING FEATURE USAGE")
 print("="*60)
