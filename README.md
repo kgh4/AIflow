@@ -5,7 +5,7 @@ Business Intelligence end-to-end project: SaaS churn analysis using star schema,
                      **IT300 Business Intelligence Project** - Tunis Business School  
 **End-to-end BI solution**: Business Understanding → ETL → Star Schema → PowerBI Dashboards → Actionable Insights
 
-## 📊 Business Problem
+## Business Problem
 AIFlow (AI productivity SaaS) faces high churn rates (25% monthly) and low customer lifetime value. This BI solution identifies at-risk segments and retention strategies.
 
 ## Data Source
