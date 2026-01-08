@@ -20,8 +20,3 @@ Features
 2. Support tickets predict cancellations
 3. Q1 response time crisis coming
 
-Files
-Churn_Analysis.pbix     [Dashboard]
-AIflow_week2.ipynb      [ETL]
-Data_Dictionary.pdf     [Week 1]
-Measures.pdf           [DAX]
